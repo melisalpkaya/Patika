@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class BurcHesaplama {
     public static void main(String[] args) {
+        
+        //Burç hesaplayan program
 
         int month,day;
 
