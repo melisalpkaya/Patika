@@ -13,13 +13,13 @@ public class CinZodyagiHesaplama {
         System.out.print(" Doğum Yılınız : ");
         yil = input.nextInt();
 
-        kalan = yil % 12;
+        kalan = yil % 12; //12 ile moddan kalınan bulunur
 
         switch (kalan) {
-            case 0:
+            case 0: // kalan 0'sa
                 burc = "Maymun";
                 break;
-            case 1:
+            case 1: // kalan 1'se
                 burc = "Horoz";
                 break;
             case 2:
