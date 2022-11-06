@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class VucutKitleIndex {
     public static void main(String[] args) {
+        //"Vücut Kitle İndeks" değerini hesaplayan program
         int kilo;
         double boy, indeks;
 
