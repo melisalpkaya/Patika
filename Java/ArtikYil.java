@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class ArtikYil {
     public static void main(String[] args) {
+        //Artık yıl hesaplayan program
+        
         Scanner input = new Scanner(System.in);
 
         int year;
