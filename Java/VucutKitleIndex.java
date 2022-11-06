@@ -3,17 +3,17 @@ import java.util.Scanner;
 public class VucutKitleIndex {
     public static void main(String[] args) {
         //"Vücut Kitle İndeks" değerini hesaplayan program
-        int kilo;
-        double boy, indeks;
+        int weight;
+        double height, index;
 
         Scanner input = new Scanner(System.in);
         System.out.println("Lütfen boyunuzu (metre cinsinde) giriniz :");
-        boy = input.nextDouble();
+        height = input.nextDouble();
         System.out.println(" Lütfen kilonuzu giriniz :");
-        kilo=input.nextInt();
+        weight=input.nextInt();
 
-        indeks = kilo / (boy * boy);
-        System.out.println("Vücut Kitle İndeksiniz : "+ indeks);
+        index = weight / (height * height);
+        System.out.println("Vücut Kitle İndeksiniz : "+ index);
 
     }
 }
