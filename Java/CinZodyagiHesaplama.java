@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class CinZodyagiHesaplama {
     public static void main(String[] args) {
+        
+        //Çin zodyağı hesaplanırken kişinin doğum yılının 12 ile bölümünde kalana göre bulunur.
 
         int yil, kalan;
         String burc = " ";
@@ -53,6 +55,6 @@ public class CinZodyagiHesaplama {
 
         }
 
-        System.out.println("Cin Zodyagı Burcunuz : " + burc);
+        System.out.println("Çin Zodyağı Burcunuz : " + burc);
     }
 }
