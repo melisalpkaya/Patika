@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Toplam {
     public static void main(String[] args) {
+        //Java döngüler ile tek bir sayı girilene kadar kullanıcıdan girişleri kabul eden ve girilen değerlerden çift ve 4'ün katları olan sayıları toplayıp ekrana basan program
 
         int number, total = 0;
         Scanner inp = new Scanner(System.in);
