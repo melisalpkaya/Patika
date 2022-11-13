@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class UsluSayiHesaplama {
     public static void main(String[] args) {
+        
+        //Java ile kullanıcının girdiği değerler ile üslü sayı hesaplayan program
 
         int base, exponent, result =1;
 
