@@ -3,6 +3,8 @@ import java.util.Scanner;
 
 public class Combination {
     public static void main(String[] args) {
+        
+        //Java ile kombinasyon hesaplayan program
 
         int n , r,combination, facN = 1, facR = 1, facNR=1;
         Scanner input = new Scanner(System.in);
