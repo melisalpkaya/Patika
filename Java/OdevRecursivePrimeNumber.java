@@ -18,6 +18,8 @@ public class OdevRecursivePrimeNumber {
 
     }
     public static void main(String[] args) {
+        
+        // "Recursive" metot kullanarak, kullanıcıdan alınan sayının "Asal" sayı olup olmadığını bulan program
 
         Scanner inp = new Scanner(System.in);
 
