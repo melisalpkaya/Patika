@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class OdevMinMax {
     public static void main(String[] args) {
+        //klavyeden girilen N tane sayma sayısından en büyük ve en küçük sayıları bulan ve bu sayıları ekrana yazan program
+
         int countNumber, number ;
         int maxNumber = Integer.MIN_VALUE;
         int minNUmber = Integer.MAX_VALUE;
