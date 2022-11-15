@@ -16,7 +16,7 @@ public class OdevRecursivePower {
 
     public static void main(String[] args) {
 
-        //, taban ve üs değerleri kullanıcıdan alınan üs alma işlemini "Recursive" metot kullanarak yapan program
+        // taban ve üs değerleri kullanıcıdan alınan üs alma işlemini "Recursive" metot kullanarak yapan program
 
         Scanner scan = new Scanner(System.in);
 
